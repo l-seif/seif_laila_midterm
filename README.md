@@ -10,8 +10,10 @@ TODO: Describe the installation process
 TODO: Write usage instructions
 
 ## Contributing
-Fork it!
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -am 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request :D
+<ul>
+<li>Fork it!</li>
+<li>Create your feature branch: git checkout -b my-new-feature</li>
+<li>Commit your changes: git commit -am 'Add some feature'</li>
+<li>Push to the branch: git push origin my-new-feature</li>
+<li>Submit a pull request :D</li>
+</ul>
